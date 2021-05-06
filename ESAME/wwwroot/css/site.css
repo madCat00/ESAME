@@ -191,6 +191,7 @@ app {
         height: 300px;
         color: white;
         font-weight: 400;
+        font-size:70px;
         font-family: Georgia;
         background-image: url("../img/patrick-tomasso-GXXYkSwndP4-unsplash.jpg");
         background-position:center;
